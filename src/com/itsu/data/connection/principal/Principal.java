@@ -22,10 +22,10 @@ public class Principal {
 		rol.setIdRol(1);//PARA TRAER LOS ID Y PASARLOS COMO PARAMETRO
 		carrera.setIdCarrera(1);//PARA TRAER LOS ID Y PASARLOS COMO PARAMETRO
 //		
-//		usuario.setNombreUsuario("123");
-//		usuario.setApellidoUsuario("yoli");
-//		usuario.setContraseñaUsuario("jgj");
-//		usuario.setTelefonoUsuario("alumno");
+		usuario.setNombreUsuario("123");
+		usuario.setApellidoUsuario("yoli");
+		usuario.setContraseñaUsuario("jgj");
+		usuario.setTelefonoUsuario("alumno");
 //		usuario.setEmailUsuario("fggfgf");
 //		usuario.setDniUsuario("");
 //		usuario.setDireccionUsuario("");
