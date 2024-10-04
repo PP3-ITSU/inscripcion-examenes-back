@@ -17,7 +17,7 @@ public class Principal {
 		
 		UsuarioDAOImpl usuarioDAOImpl = new UsuarioDAOImpl();
 		//Usuario usuario = new Usuario();
-		Rol rol = new Rol(); //PARA TRAER LOS ID Y PASARLOS COMO PARAMETRO
+		Rol rol = new Rol(); //PARA TRAER. LOS ID Y PASARLOS COMO PARAMETRO
 		Carrera carrera = new Carrera();//PARA TRAER LOS ID Y PASARLOS COMO PARAMETRO
 		rol.setIdRol(1);//PARA TRAER LOS ID Y PASARLOS COMO PARAMETRO
 		carrera.setIdCarrera(1);//PARA TRAER LOS ID Y PASARLOS COMO PARAMETRO
