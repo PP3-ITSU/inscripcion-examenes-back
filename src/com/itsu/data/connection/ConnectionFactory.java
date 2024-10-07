@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-/**Ruben Grauberger
+/**Ruben Grauberger :probando un cambio
  * clase que se encarga de realizar la configuracion, la conexion y
  * habilitar las transacciones de una base de datos
  * 
